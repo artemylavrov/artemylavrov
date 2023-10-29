@@ -7,4 +7,4 @@
 - 🌱 I’m currently learning Engineering tech stack and Computer Vision
 - 👀 Now I'm looking for a job 
 - 💞️ Interested in machine learning, architecture and urban planning 
-- 📫 How to reach me: [Telegram](https://t.me/plolr)
+- 📫 How to reach me: [Telegram](https://t.me/artemyylavrov)
